@@ -36,7 +36,7 @@
 
             {#snippet scrolly()}
                 <ArticleText>Wow, that looks <strong>very</strong> different from the graph we just saw.</ArticleText>
-                <ArticleText>Even their low point in the 2008 recession doesn't compare to $14,020.  </ArticleText>
+                <ArticleText>Even their low point in the 2008 recession doesn't compare to $14,020. It's almost 25 times as much as Black female's median net worth.</ArticleText>
                 <ArticleText>Now do you really understand the value of those cents that Black females aren't even getting in the first place?</ArticleText>
                 {/snippet}
         </Scroller>
@@ -44,7 +44,12 @@
 
     <ArticleText>There are also many other factors that play into this such as historical disadvantages, 
         limited access to financial services, housing inequites, the legal system, and I could go on and on and on. Today I 
-        just wanted to show one element and really help you understand the wide disparity.</ArticleText>
+        just wanted to show one element and really help you understand the wide disparity.
+    </ArticleText>
+
+    <ArticleText>
+        The data I used for the median net worth is from 2023. It's 2025 and that gap isn't any smaller. 
+    </ArticleText>
 
 </div>
 
