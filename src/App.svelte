@@ -23,13 +23,4 @@
   <WhiteWomanDollar />
   <MoreDollars />
   <MainSection />
-  <!-- <RightAlignedExample />
-  <LeftAlignedExample />
-  <ImageExample />
-
-  <IntersectionObserverSectionCard />
-  <InteresectionObserverBasicExample />
-  <IntersectionObserverAlertExample />
-  <DisappearingDuckExample />
-  <IntersectionObserverListExample /> -->
 </main>
