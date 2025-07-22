@@ -25,7 +25,6 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        /* background-color: blue; */
     }
 
     .inner{
@@ -33,15 +32,14 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        /* background-color: pink; */
     }
 
         h1 {
         font-size: 3rem;
         margin: 0;
-        color: #E6A84E;
+        color: #793F37;
         text-shadow: 1px 1px 0 #F0F1F3;
-        font-family: 'Georgia';
+        font-family: 'Verdana';
     }
 
     p {
