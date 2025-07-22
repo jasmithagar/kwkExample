@@ -5,6 +5,7 @@
     import Scroller from "../lib/Scroller.svelte";
     import ArticleText from "../lib/ArticleText.svelte";
 
+    
     const series = [
         {
             name: "Group 1",
